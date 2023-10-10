@@ -1,0 +1,27 @@
+
+
+  .pricing_container{
+    border: "1px solid #9E9EAD";
+    border-radius: "10px";
+    display: "flex";
+    flex-direction: "column";
+    gap: "30px";
+    align-items: "center";
+    color: "#1E0E62";
+  }
+
+  .pricing{
+    display: "flex";
+    flex-direction: "row";
+    align-items: "center";
+    gap: "10px";
+    position: "relative";
+  }
+
+  .dollar{
+    width: "12px"; height: "12px"; position: "absolute" 
+  }
+
+  .pricing_Content{
+    color: "#9E9EAD"; font-size: "12px" 
+  }
